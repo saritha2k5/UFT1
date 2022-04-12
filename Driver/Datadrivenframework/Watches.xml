@@ -1,0 +1,4 @@
+﻿<Properties>
+  <WatchEntry0 value="Environment(&quot;TestDataPath&quot;)" />
+  <WatchEntry1 value="Environment(&quot;ResultPath&quot;)" />
+</Properties>

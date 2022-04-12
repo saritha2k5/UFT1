@@ -1,0 +1,10 @@
+<Environment>
+	<Variable>
+		<Name>ResultPath</Name>
+		<Value><![CDATA["D:\Saritha\DatadrivenFramwork\TestResults\datadriveframework1.xlsx"]]></Value>
+	</Variable>
+	<Variable>
+		<Name>TestDataPath</Name>
+		<Value><![CDATA["‪D:\Saritha\DatadrivenFramwork\TestData\datadriveframework1.xls"]]></Value>
+	</Variable>
+</Environment>
